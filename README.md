@@ -11,5 +11,5 @@ This is a small machine learning model to detect some of the Breaking Bad series
 2. You can run the program easily from the terminal and enter the path to the picture of the charecter like the following :
     ```python face_recognition.py```
 3. You should check that the terminal is opened at the same file directory.
-4. 
+
     ![image](https://user-images.githubusercontent.com/56882255/119121488-c5d07600-ba2d-11eb-9c43-4f855886be1c.png)
